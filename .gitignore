@@ -1,5 +1,5 @@
 *.py
 *.pyc
 *.ipynb_checkpoints/
-*/datasets/
-*/images/
+*/*/datasets/
+*/*/images/
