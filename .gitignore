@@ -1,6 +1,5 @@
 *.py
 *.pyc
 *.ipynb_checkpoints/
-*/__pycache__/
 */datasets/
 */images/
